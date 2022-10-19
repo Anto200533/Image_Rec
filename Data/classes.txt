@@ -1,0 +1,4 @@
+bishop_black
+bishop_white
+king_black
+king_white
